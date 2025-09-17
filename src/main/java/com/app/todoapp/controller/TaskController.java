@@ -1,5 +1,4 @@
 package com.app.todoapp.controller;
-
 import com.app.todoapp.models.Task;
 import com.app.todoapp.services.TaskService;
 import org.springframework.stereotype.Controller;
